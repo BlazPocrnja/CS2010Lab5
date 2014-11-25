@@ -1,0 +1,14 @@
+Author: Blaz Pocrnja
+
+The following commands are to run the program from the Terminal window.
+
+
+"make" or "make driver": : Allows you to compile and link the code into an executable.
+"make clean" : Deletes .o files and executable file.
+"make driver.o" and/or "make memory.o" : Allows you to only compile each .cpp file.
+"./driver" runs the executable.
+
+Press Ctrl + Z to abort program at any time.
+
+Github Repository URL: https://github.com/BlazPocrnja/CS2010Lab5.git
+
